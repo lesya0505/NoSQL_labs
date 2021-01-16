@@ -1,0 +1,6 @@
+{
+  "event_hub": {
+    "conn_str": "Endpoint=sb://dblab5.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=jWC27qyVUN9JUEpq/exdllFGEwFMuGuk0uxh6bEqbW4=",
+    "eventhub_name": "blabs"
+  }
+}
